@@ -12,3 +12,5 @@
 - Upload auf [GitHub](https://github.com/) mit Bereitstellung eines Zugangs als Website (siehe :computer: Link)
 
 ### :camera_flash: Screenshot:
+
+https://raw.githubusercontent.com/stadtentwicklung/3D-Website-Partizipation/main/screenshot.png
