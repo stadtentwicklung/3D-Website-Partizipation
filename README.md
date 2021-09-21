@@ -12,5 +12,7 @@
 - Upload auf [GitHub](https://github.com/) mit Bereitstellung eines Zugangs als Website (siehe :computer: Link)
 
 ### :camera_flash: Screenshot:
+![Hier ist ein Screenshot der Website mit 3D-Modell](https://raw.githubusercontent.com/stadtentwicklung/3D-Website-Partizipation/main/screenshot.png)
 
-https://raw.githubusercontent.com/stadtentwicklung/3D-Website-Partizipation/main/screenshot.png
+### :coffee:
+by [St.St.](https://github.com/stewahn)
