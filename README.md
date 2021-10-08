@@ -14,5 +14,4 @@
 ### :camera_flash: Screenshot:
 ![Hier ist ein Screenshot der Website mit 3D-Modell](https://raw.githubusercontent.com/stadtentwicklung/3D-Website-Partizipation/main/screenshot.png)
 
-### :coffee:
-by [St.St.](https://github.com/stewahn)
+### :coffee::coffee::coffee: by [Stefan](https://github.com/stefanstoehr)
